@@ -1,14 +1,14 @@
-![Logo](cp.png)
 
-# Amine Portfolio Showcase 💻
 
-Welcome to Amine's Portfolio Showcase!
+# ZxlvvvDD Portfolio Showcase 💻
+
+Welcome to ZxlvvDD's Portfolio Showcase!
 A modern and elegant personal portfolio website built to present my projects, skills, and professional journey using HTML, CSS, and JavaScript.
 ---
 
 ## Live Demo 🚀
 
-You can view the live website here: [Live Demo](https://cozy-crisp-b269de.netlify.app/)
+You can view the live website here: [Live Demo](https://zxlvvvdd-portfolio.netlify.app/)
 
 ---
 
@@ -57,16 +57,16 @@ This project is licensed under the terms described in the [LICENSE](LICENSE) fil
 
 ## 📬 Contact
 
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b/)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
+- Email: zayriddinov.o@gmail.com   
+- Location: Tashkent , Uzbekistan 
+- LinkedIn: [LinkedIn]()  
+- GitHub: [GitHub](https://github.com/zayriddinovv)  
+- Instagram: [Instagram](https://www.instagram.com/zxlvvvdd?igsh=Mzk5cWpoaXMwNjh2&utm_source=qr)
 
 ---
 
-Made with ❤️ by **Amine Hamzaoui**
+Made with ❤️ by **ZxlvvvDD**
 
 
 ```bash
-git clone https://github.com/Saboo24/portofolio8.git
+git clone https://github.com/zxlvvvdd/portofolio.git
