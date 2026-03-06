@@ -69,4 +69,4 @@ Made with ❤️ by **ZxlvvvDD**
 
 
 ```bash
-git clone https://github.com/zxlvvvdd/portofolio.git
+git clone https://github.com/zayriddinovv/zxlvvvdd-portofolio.git
